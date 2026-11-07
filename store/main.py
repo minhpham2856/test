@@ -1,1 +1,1 @@
-print("ai function")
+print("welcome to store")
